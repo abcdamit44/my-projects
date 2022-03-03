@@ -1,0 +1,25 @@
+body {
+    background-color: #16181D;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: hidden;
+}
+
+a {
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 1px 10px #fff;
+}
+
+.carousel {
+    height: 120vh;
+    top: -200px;
+}
+
+img {
+    -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0006);
+    transform: scale(2);
+}
